@@ -1,2 +1,2 @@
 # python-learning
-Learing python and addingny own programs
+Learing python and adding my own programs
